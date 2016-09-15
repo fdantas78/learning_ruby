@@ -1,0 +1,1 @@
+puts 22.methods
